@@ -1,0 +1,2 @@
+instance,metric,algo_a,algo_b,mean_a,mean_b,wilcoxon_stat,p_value,significant_at_0_05,better_mean
+A-n32-k5.vrp,best_fitness,GSA,GA,826.2,1052.1,0.0,0.001953125,True,GSA
