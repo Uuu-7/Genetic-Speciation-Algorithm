@@ -1,4 +1,0 @@
-kmeans_random_state,wishart_min_cluster_size,local_search_rounds,scenario3_rate,cross_species_rate,immigrant_rate,crossover_rate,non_elite_injection_bias,wishart_significance_level,scenario2_rate,speciation_method,mask_threshold,algorithm,wishart_neighbors,population_size,local_search_top_ratio,local_search_rate,tournament_size,num_species,generations,mutation_rate,worst_injection_ratio,elite_ratio,wishart_noise_policy,scenario1_rate
-42,3,1,0.0,0.0,0.0,0.8,0.9,0.12,0.0,rank,0.7,GA,7,100,0.0,0.0,3,1,300,0.1,0.3,0.2,nearest,0.0
-42,3,1,0.2,0.0,0.0,0.8,0.9,0.12,0.5,rank,0.7,GEA,7,100,0.0,0.0,3,1,300,0.1,0.3,0.2,nearest,0.5
-42,4,2,0.25,0.6,0.1,0.7,0.9,0.12,0.15,wishart,0.7,GSA,9,100,0.4,0.6,3,3,300,0.3,0.3,0.2,explorer,0.15
